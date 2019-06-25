@@ -6,7 +6,9 @@
 <body>
 <h1>Privacy Policy</h1>
 <p>MovieX</p>
-<p>Mateus Nunes built this app f</p>
+
+<p>Mateus Nunes built this app.</p>
+
 <p>If you choose to use MovieX Service, then you agree to the collection and use of information in
     relation with this policy. The Personal Information that i collect are used for providing and
     improving the Service. I will not use or share your information with anyone except as described
