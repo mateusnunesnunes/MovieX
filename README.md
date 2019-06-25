@@ -1,0 +1,2 @@
+# MovieX
+Privacy Policy MovieX
